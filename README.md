@@ -7,3 +7,13 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 Technical Requirements:
 The back-end system shall use JDBC to connect to a Postgres database. The middle tier shall use Javalin technology for dynamic Web application development. The front-end view shall use HTML/CSS/JavaScript to make an application that can call server-side components in a generally RESTful manner. The middle tier shall follow proper layered architecture, and have reasonable JUnit test coverage of the service layer. Webpages shall be styled to be functional and readable.
+
+
+Technologies:
+Java 1.8
+Maven
+JDBC
+SQL
+Servlet
+HTML/JS/CSS
+JUnit
